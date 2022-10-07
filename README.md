@@ -2,7 +2,7 @@
 
 ### This project is part of the Data Science Bootcamp Curriculum @ Spiced Berlin
 
-#### The exercise goal is to predict and simulate the customers behavious in a supermarket.
+#### The exercise goal is to predict and simulate the customers behaviour in a supermarket.
 
 
 #### The project involves the following tasks:
